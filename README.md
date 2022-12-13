@@ -1,1 +1,1 @@
-# https://levotiger.github.io/rsschool-cv/cv
+# https://levotiger.github.io/rsschool-cv/
